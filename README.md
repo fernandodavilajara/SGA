@@ -1,3 +1,1 @@
-# SGA
-# SGA
-# SGA
+Sistema de gestion de alumnos utilizando Hibernate como ORM. 
